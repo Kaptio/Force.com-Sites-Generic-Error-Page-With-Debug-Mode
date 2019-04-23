@@ -41,7 +41,7 @@
 	<div id="main">
 	    	<div class="fof">
 	        		<h1>We ran into a problem...</h1>
-	        		<p>Please <a href="mailto:reservations@rockymountaineer.com">write to us</a> for further assistance.</p>
+	        		<p>Please <a href="mailto:admin@kapti.com">write to us</a> for further assistance.</p>
 	        		<apex:outputPanel rendered="{!errorMessage != null}">
 	        			<p><i>{!errorMessage}</i></p>
 	        		</apex:outputPanel>
